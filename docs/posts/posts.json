@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to DT",
-    "description": "Welcome to our new blog, DT. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to Deep Thinking",
+    "description": "Welcome to our new blog, Deep Thinking. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
         "name": "Nora Jones",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-25T11:38:35-05:00",
+    "last_modified": "2023-03-25T12:05:24-05:00",
     "input_file": {}
   }
 ]

@@ -1,0 +1,22 @@
+---
+title: "Mundo Princesa"
+description: |
+  Las últimas novidades sobre las princesas.
+author:
+  - name: Deep Thinking 
+    url: deepthinking.com.co/
+date: 03-25-2023
+output:
+  distill::distill_article:
+  self_contained: false
+---
+  
+**Atención**
+
+La princesa **Marisabelia** se convirtió en gusano!
+
+Para ver si la seguían queriendo.
+
+![](https://www.poresto.net/u/fotografias/m/2023/3/18/f608x342-270686_300409_31.jpg)
+
+Que no te pase a ti.

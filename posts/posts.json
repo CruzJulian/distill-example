@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Deep Thinking",
+    "description": "Welcome to our new blog, Deep Thinking. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-25",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-25T12:05:24-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-25-hola-mundo/",
+    "title": "Hola mundo",
+    "description": "Este es un post de prueba",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-03-25",
+    "categories": [],
+    "contents": "\nNoticias, novedades, artículos.\nOtros textos destacados.\n\nY un perrito.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-25T12:12:22-05:00",
+    "input_file": "hola-mundo.knit.md"
+  },
+  {
+    "path": "posts/2023-03-25-princesa-marisabelia/",
+    "title": "Mundo Princesa",
+    "description": "Las últimas novidades sobre las princesas.",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-03-25",
+    "categories": [],
+    "contents": "\nAtención\nLa princesa Marisabelia se convirtió en gusano!\nPara ver si la seguían queriendo.\n\nQue no te pase a ti.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-25T12:16:53-05:00",
+    "input_file": "princesa-marisabelia.knit.md"
+  }
+]

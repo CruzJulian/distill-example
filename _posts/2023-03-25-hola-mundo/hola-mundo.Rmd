@@ -1,0 +1,20 @@
+---
+title: "Hola mundo"
+description: |
+  Este es un post de prueba
+author:
+  - name: Deep Thinking 
+    url: deepthinking.com.co/
+date: 03-25-2023
+output:
+  distill::distill_article:
+  self_contained: false
+---
+  
+Noticias, novedades, artículos.
+
+Otros textos destacados.
+
+![](https://images.hola.com/imagenes/mascotas/20221020219416/razas-perros-toy/1-154-385/razas-de-perro-toy-t.jpg)
+
+Y un perrito.

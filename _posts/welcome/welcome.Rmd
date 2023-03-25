@@ -1,7 +1,7 @@
 ---
-title: "Welcome to DT"
+title: "Welcome to Deep Thinking"
 description: |
-  Welcome to our new blog, DT. We hope you enjoy 
+  Welcome to our new blog, Deep Thinking. We hope you enjoy 
   reading what we have to say!
 author:
   - name: Nora Jones 
